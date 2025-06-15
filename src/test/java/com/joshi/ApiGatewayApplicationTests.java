@@ -1,4 +1,4 @@
-package com.joshi.gateway.api_gateway;
+package com.joshi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
